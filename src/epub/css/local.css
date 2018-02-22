@@ -37,10 +37,6 @@ span[epub|type~="subtitle"]{
 	margin-bottom: 1em;
 }
 
-[epub|type~="z3998:verse"] p + p{
-	margin-top: 1em;
-}
-
 [epub|type~="z3998:verse"] p > span{
 	display: block;
 	text-indent: -1em;
