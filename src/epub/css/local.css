@@ -31,6 +31,12 @@ span[epub|type~="subtitle"]{
 	text-align: right;
 }
 
+.dateline{
+	text-align: center;
+	text-indent: 0;
+	margin-bottom: 1em;
+}
+
 [epub|type~="z3998:verse"] p + p{
 	margin-top: 1em;
 }
@@ -52,4 +58,8 @@ span[epub|type~="subtitle"]{
 	height: 0;
 	margin: 1.5em auto;
 	width: 25%;
+}
+
+[epub|type~="z3998:persona"]{
+	font-style: italic;
 }
