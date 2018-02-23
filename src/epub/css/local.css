@@ -24,6 +24,7 @@ span[epub|type~="subtitle"]{
 
 [epub|type~="epigraph"] p{
 	margin-top: 4em;
+	text-align: center;
 }
 
 .signature{
