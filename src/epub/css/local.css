@@ -37,7 +37,7 @@ span[epub|type~="subtitle"]{
 	text-align: right;
 }
 
-.dateline{
+[epub|type~="se:diary.dateline"] {
 	text-align: center;
 	text-indent: 0;
 	margin-bottom: 1em;
