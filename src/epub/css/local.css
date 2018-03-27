@@ -37,7 +37,7 @@ span[epub|type~="subtitle"]{
 	text-align: right;
 }
 
-[epub|type~="se:diary.dateline"] {
+[epub|type~="se:diary.dateline"]{
 	text-align: center;
 	text-indent: 0;
 	margin-bottom: 1em;
@@ -53,7 +53,7 @@ span[epub|type~="subtitle"]{
 	display: none;
 }
 
-[epub|type~="z3998:diary"] [epub|type~="z3998:diary-entry"] {
+[epub|type~="z3998:diary"] [epub|type~="z3998:diary-entry"]{
 	margin-left: 0;
 	margin-right: 0;
 }
