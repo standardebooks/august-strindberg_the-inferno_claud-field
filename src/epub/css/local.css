@@ -18,11 +18,6 @@ footer{
 	margin-top: 1em;
 }
 
-span[epub|type~="subtitle"]{
-	display: block;
-	font-weight: normal;
-}
-
 /* All epigraphs */
 [epub|type~="epigraph"]{
 	font-style: italic;
