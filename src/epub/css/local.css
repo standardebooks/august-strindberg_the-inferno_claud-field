@@ -91,6 +91,6 @@ section[epub|type~="epigraph"] > *{
 	width: 25%;
 }
 
-[epub|type~="z3998:persona"]{
+#chapter-9 b{
 	font-style: italic;
 }
