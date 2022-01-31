@@ -14,8 +14,8 @@ time{
 }
 
 footer{
-	text-align: right;
 	margin-top: 1em;
+	text-align: right;
 }
 
 /* All epigraphs */
@@ -62,9 +62,9 @@ section[epub|type~="epigraph"] > *{
 }
 
 [epub|type~="se:diary.dateline"]{
+	margin-bottom: 1em;
 	text-align: center;
 	text-indent: 0;
-	margin-bottom: 1em;
 }
 
 [epub|type~="z3998:verse"] p > span{
