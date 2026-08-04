@@ -40,7 +40,7 @@
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">n79005597</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:abstract>A writer succumbing to mania tries to find a path out through occultism and religion, in Strindberg’s semi-autobiographical novel.</dc:abstract>
+		<meta property="schema:abstract">A writer succumbing to mania tries to find a path out through occultism and religion, in Strindberg’s semi-autobiographical novel.</meta>
 		<dc:description>
 			&lt;p&gt;The narrator of &lt;i&gt;The Inferno&lt;/i&gt;—ostensibly &lt;a href="https://standardebooks.org/ebooks/august-strindberg"&gt;August Strindberg&lt;/a&gt; himself—has not had an easy recent past, and a move to Paris is not helping. As his mania overtakes his ability to function in the society of artists, writers, scientists and philosophers he’d like to be part of, he turns to more unconventional methods to help make sense of his world.&lt;/p&gt;
 			&lt;p&gt;Written in diary form, &lt;i&gt;The Inferno&lt;/i&gt; is a semi-autobiographical work that blends self-deprecating humour with a whirl of neurosis and attempted rationalisation. The novel, with a certain amount of exaggeration for literary effect, charts two years of Strindberg’s life in the 1890s. Presented here is Claud Field’s 1913 translation from the original French.&lt;/p&gt;
